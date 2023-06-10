@@ -1,6 +1,10 @@
 # Written by Daniel Potter. Student ID: A00124220
 
-# (b) Write a script in Python that prints (displays) your name, address and telephone number
-print("Name: Daniel Potter")  # Print name
-print("Address: Frankston")  # Print address
-print("Phone number: 012345678")  # Print phone number
+# (c) Write a Python program which accepts the user's first and last name as an input and prints them in reverse order with a space between them.
+
+# Get the user's first and last name
+firstName = input("Enter your first name: ")
+lastName = input("Enter your last name: ")
+
+# Print the names in reverse order with a space between them
+print(lastName + " " + firstName)
