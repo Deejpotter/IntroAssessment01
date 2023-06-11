@@ -5,6 +5,5 @@
 
 Answer:
 
-The industry-standard IDE for Python is PyCharm. As a beginner, I would opt to use PyCharm because it is a powerful IDE
-with a lot of features that can help me to write code faster and more efficiently. It's also an industry-standard,
-so it would be useful for me to learn how to use it for the future.
+The industry-standard IDE for Python is PyCharm. As a beginner, I would probably use PyCharm because it's a powerful IDE with a lot of features.
+Even though it's probably more complicated to use, it's also an industry-standard, so it would be useful for me to learn how to use it for the future.
