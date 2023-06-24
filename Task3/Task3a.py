@@ -17,7 +17,7 @@
 
   vii. ‘b’ raised to power a
 
-Print the results of all operations on variables
+4. Print the results of all operations on variables
 """
 
 # Set the initial string. It looks like the string in the question is indented by 4 tabs.
@@ -30,3 +30,5 @@ print(string)
 a = int(input("Enter the exponent for the operation: "))  # Cast the input to an int
 b = int(input("Enter the base for the operation: "))  # Cast the input to an int
 print(b, "raised to power", a, "is", str(b ** a))  # Cast the result to a string for printing
+
+# I referenced the Module 2 Resources for this code.

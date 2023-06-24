@@ -5,3 +5,5 @@
 print("Name: Daniel Potter")  # Print name
 print("Address: Frankston")  # Print address
 print("Phone number: 012345678")  # Print phone number
+
+# I referenced the Module 2 Resources for this code.

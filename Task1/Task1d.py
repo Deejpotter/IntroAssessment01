@@ -8,3 +8,5 @@ num = input("What is your favourite number from 0 to 9? ")
 
 # Print the number
 print("Your favourite number is " + num)
+
+# I referenced the Module 2 Resources for this code.

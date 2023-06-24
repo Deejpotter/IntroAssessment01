@@ -8,3 +8,5 @@ lastName = input("Enter your last name: ")
 
 # Print the names in reverse order with a space between them
 print(lastName + " " + firstName)
+
+# I referenced the Module 2 Resources for this code.

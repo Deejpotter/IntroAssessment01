@@ -53,3 +53,5 @@ print("3 ** 2 =", int_exponent, "\nThe type of the result is", type(int_exponent
 float_exponent = 9 ** 0.5
 print("9 ** 0.5 =", float_exponent, "\nThe type of the result is", type(float_exponent),
       "\nAlso uses the exponent operator (**). In this case, the second number is a float so the result is converted to a float.")
+
+# I referenced the Module 2 Resources for this code.
